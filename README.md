@@ -81,8 +81,3 @@ $
 ** no instance found **
 (hbnb)
 
-```
-### Authors
-*Diego Murray* - [Github](https://github.com/dmurr) || [Twitter](https://twitter.com/diegocmurray)
-
-*Francesca Cantor* - [Github](https://github.com/fcantor/) || [Twitter](https://twitter.com/servomecatnism)
